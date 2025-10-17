@@ -3,6 +3,7 @@
 Splunk Enterprise was installed in the default directory:
 C:\Program Files\SplunkUniversalForwarder.
 During installation, the Universal Forwarder was selected to transmit log data to a local, on-premises Splunk Enterprise instance for centralized monitoring and analysis.
+![Splunk](images/1.png)
 
 A secure administrator account was created with strong credentials. A randomly generated password was securely stored to ensure proper access control and reduce the risk of credential exposure.
 
