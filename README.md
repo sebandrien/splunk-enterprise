@@ -9,10 +9,11 @@ A secure administrator account was created with strong credentials. A randomly g
 ![Splunk](images/2.png)
 
 The Universal Forwarder was configured to communicate with the local Splunk Enterprise instance using the loopback IP address 127.0.0.1 and the default management port 8000.
+![Splunk](images/3.png)
 
 To verify successful installation and service status, Windows PowerShell was used to execute the following command:
 Get-Service splunkforwarder
-
+![Splunk](images/4.png)
 
 The service was confirmed to be active and running, indicating that data forwarding capabilities were operational.
 
