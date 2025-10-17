@@ -1,4 +1,4 @@
-#Splunk Enterprise Setup and Configuration#
+# Splunk Enterprise Setup and Configuration
 
 Splunk Enterprise was installed in the default directory:
 C:\Program Files\SplunkUniversalForwarder.
