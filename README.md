@@ -6,6 +6,7 @@ During installation, the Universal Forwarder was selected to transmit log data t
 ![Splunk](images/1.png)
 
 A secure administrator account was created with strong credentials. A randomly generated password was securely stored to ensure proper access control and reduce the risk of credential exposure.
+![Splunk](images/2.png)
 
 The Universal Forwarder was configured to communicate with the local Splunk Enterprise instance using the loopback IP address 127.0.0.1 and the default management port 8000.
 
