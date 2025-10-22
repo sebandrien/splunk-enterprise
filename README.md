@@ -18,6 +18,7 @@ Get-Service splunkforwarder
 The service was confirmed to be active and running, indicating that data forwarding capabilities were operational.
 
 After confirming proper setup, the Splunk Enterprise web interface was accessed through the browser at http://127.0.0.1:8000. The default dashboard layout successfully loaded, displaying system health indicators and confirming the instance was fully functional.
+![Splunk](images/5.png)
 
 
 The local host event collection logs are set to capture and filter based on specified events.
