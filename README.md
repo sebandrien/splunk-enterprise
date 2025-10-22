@@ -25,4 +25,4 @@ The local host event collection logs are set to capture and filter based on spec
 
 Configured a new custom alert in Splunk to monitor Windows Security EventCode 4655, which corresponds to failed login attempts.
 This alert continuously tracks authentication failures and triggers a real-time notification whenever multiple failed logins occur within a defined time window.
-
+![Splunk](images/6.png)
